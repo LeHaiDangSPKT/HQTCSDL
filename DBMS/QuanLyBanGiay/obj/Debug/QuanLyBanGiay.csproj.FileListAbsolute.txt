@@ -1,0 +1,15 @@
+D:\HK1_nam3\DBMS\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe.config
+D:\HK1_nam3\DBMS\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.exe
+D:\HK1_nam3\DBMS\QuanLyBanGiay\bin\Debug\QuanLyBanGiay.pdb
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csprojAssemblyReference.cache
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.frmLogin.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Properties.Resources.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.csproj.GenerateResource.cache
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.exe
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.pdb
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.frmMDI.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Views.frmHangGiay.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Views.frmLoaiGiay.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Views.frmGiay.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Views.frmNhaCungCap.resources
+D:\HK1_nam3\DBMS\QuanLyBanGiay\obj\Debug\QuanLyBanGiay.Views.frmKhachHang.resources

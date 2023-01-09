@@ -1,0 +1,27 @@
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\bin\Debug\BAI THUC HANH 2.exe.config
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\bin\Debug\BAI THUC HANH 2.exe
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\bin\Debug\BAI THUC HANH 2.pdb
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI THUC HANH 2.csprojAssemblyReference.cache
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI_THUC_HANH_2.FormTaskManager.resources
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI_THUC_HANH_2.Properties.Resources.resources
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI THUC HANH 2.csproj.GenerateResource.cache
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI THUC HANH 2.exe
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 2\obj\Debug\BAI THUC HANH 2.pdb
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.exe.config
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.exe
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.pdb
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.csprojAssemblyReference.cache
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI_THUC_HANH_2.FormTaskManager.resources
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI_THUC_HANH_2.Properties.Resources.resources
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.csproj.GenerateResource.cache
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.exe
+D:\HK2_năm 2\LT WINDOWNS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.pdb
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.exe.config
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.exe
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\bin\Debug\BAI THUC HANH 2.pdb
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.csprojAssemblyReference.cache
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI_THUC_HANH_2.FormTaskManager.resources
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI_THUC_HANH_2.Properties.Resources.resources
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.csproj.GenerateResource.cache
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.exe
+D:\HK1_nam3\DBMS\BAI THUC HANH 4\obj\Debug\BAI THUC HANH 2.pdb
